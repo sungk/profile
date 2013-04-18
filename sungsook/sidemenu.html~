@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+
+<html>
+	
+	<head>
+		<title>SungK</title>
+	</head>
+
+	
+	<body bgcolor="e2492f" leftmargin="0" topmargin="0">
+
+		<center>
+
+
+			<br><br><br><br><br>
+
+			<img src="./images/lightn.gif" width="140px" height="140px" onmouseover="this.src='./images/helmet.gif'" onmouseout="this.src='./images/lightn.gif'"><br><br><br>
+
+			<img src="./images/menu1.gif" width="65px" height="33px" onmouseover="this.src='./images/menu1over.gif'"  onmouseout="this.src='./images/menu1.gif'"><br>
+			<img src="./images/menu2.gif" width="65px" height="33px" onmouseover="this.src='./images/menu2over.gif'"  onmouseout="this.src='./images/menu2.gif'"><br>
+			<img src="./images/menu3.gif" width="65px" height="33px" onmouseover="this.src='./images/menu3over.gif'"  onmouseout="this.src='./images/menu3.gif'"><br>
+			<img src="./images/menu4.gif" width="65px" height="33px" onmouseover="this.src='./images/menu4over.gif'"  onmouseout="this.src='./images/menu4.gif'"><br>
+<img src="./images/menu5.gif" width="65px" height="33px" onmouseover="this.src='./images/menu5over.gif'"  onmouseout="this.src='./images/menu5.gif'">
+
+
+
+
+			
+			
+			
+		</center>
+	</div>
+	</body>
+</html>
+
